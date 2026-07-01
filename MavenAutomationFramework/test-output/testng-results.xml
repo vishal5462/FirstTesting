@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-30T02:42:14 IST" name="Suite" finished-at="2026-06-30T02:42:18 IST" duration-ms="3602">
+    <groups>
+    </groups>
+    <test started-at="2026-06-30T02:42:14 IST" name="Test" finished-at="2026-06-30T02:42:18 IST" duration-ms="3602">
+      <class name="tests.Basetest">
+        <test-method signature="launchurl()[pri:0, instance:tests.Basetest@3590fc5b]" started-at="2026-06-30T02:42:14 IST" name="launchurl" finished-at="2026-06-30T02:42:18 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+      </class> <!-- tests.Basetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
