@@ -10,6 +10,7 @@ public class Basetest {
 	public void launchurl() {
 		
 		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.astrovidhan.com/");
 	}
 
 }
